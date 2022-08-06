@@ -1,0 +1,24 @@
+{
+  "name": "mysql-connection-pool",
+  "version": "1.0.0",
+  "description": "Nodejs mysql connection pool example",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nooptr/node-mysql-pool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nooptr/node-mysql-pool/issues"
+  },
+  "homepage": "https://github.com/nooptr/node-mysql-pool#readme"
+}
